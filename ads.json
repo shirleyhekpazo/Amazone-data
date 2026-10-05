@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T16:13:12.303Z",
+  "updatedAt": "2026-10-05T16:14:53.218Z",
   "timezone": "Africa/Porto-Novo",
   "panels": {
     "nord": {
-      "ticker": "",
+      "ticker": "Bienvenue à tous dans mon Univers ! Je suis Sigrid-Solène Shirley HEKPAZO",
       "slots": [
         {
           "id": "nord-1",
@@ -128,7 +128,7 @@
       ]
     },
     "est": {
-      "ticker": "",
+      "ticker": "Bienvenue à tous dans mon Univers ! Je suis Sigrid-Solène Shirley HEKPAZO",
       "slots": [
         {
           "id": "est-1",
@@ -190,7 +190,7 @@
       ]
     },
     "sud": {
-      "ticker": "",
+      "ticker": "Bienvenue à tous dans mon Univers ! Je suis Sigrid-Solène Shirley HEKPAZO",
       "slots": [
         {
           "id": "sud-1",
