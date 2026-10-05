@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-05T10:08:55.094Z",
+  "timezone": "Africa/Porto-Novo",
+  "panels": {
+    "nord": {
+      "ticker": "",
+      "slots": [
+        {
+          "id": "nord-1",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-1-1791194923707.png",
+          "path": "media/nord/nord-1-1791194923707.png",
+          "duration": 8,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "from": "00:00",
+          "to": "23:59"
+        },
+        {
+          "id": "nord-2",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
+          "duration": 8,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "from": "00:00",
+          "to": "23:59"
+        },
+        {
+          "id": "nord-3",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
+          "duration": 8,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "from": "00:00",
+          "to": "23:59"
+        }
+      ]
+    },
+    "ouest": {
+      "ticker": "",
+      "slots": [
+        {
+          "id": "ouest-1",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
+          "duration": 8,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "from": "00:00",
+          "to": "23:59"
+        },
+        {
+          "id": "ouest-2",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
+          "duration": 8,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "from": "00:00",
+          "to": "23:59"
+        },
+        {
+          "id": "ouest-3",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
+          "duration": 8,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "from": "00:00",
+          "to": "23:59"
+        }
+      ]
+    },
+    "est": {
+      "ticker": "",
+      "slots": [
+        {
+          "id": "est-1",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
+          "duration": 8,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "from": "00:00",
+          "to": "23:59"
+        },
+        {
+          "id": "est-2",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
+          "duration": 8,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "from": "00:00",
+          "to": "23:59"
+        },
+        {
+          "id": "est-3",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
+          "duration": 8,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "from": "00:00",
+          "to": "23:59"
+        }
+      ]
+    },
+    "sud": {
+      "ticker": "",
+      "slots": [
+        {
+          "id": "sud-1",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
+          "duration": 8,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "from": "00:00",
+          "to": "23:59"
+        },
+        {
+          "id": "sud-2",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
+          "duration": 8,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "from": "00:00",
+          "to": "23:59"
+        },
+        {
+          "id": "sud-3",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
+          "duration": 8,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "from": "00:00",
+          "to": "23:59"
+        }
+      ]
+    }
+  }
+}
