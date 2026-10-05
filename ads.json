@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T10:08:55.094Z",
+  "updatedAt": "2026-10-05T15:57:55.459Z",
   "timezone": "Africa/Porto-Novo",
   "panels": {
     "nord": {
@@ -10,8 +10,8 @@
           "id": "nord-1",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-1-1791194923707.png",
-          "path": "media/nord/nord-1-1791194923707.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-1-1791215824720.png",
+          "path": "media/nord/nord-1-1791215824720.png",
           "duration": 8,
           "days": [
             1,
@@ -27,10 +27,10 @@
         },
         {
           "id": "nord-2",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-2-1791215842654.png",
+          "path": "media/nord/nord-2-1791215842654.png",
           "duration": 8,
           "days": [
             1,
@@ -46,10 +46,10 @@
         },
         {
           "id": "nord-3",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-3-1791215857919.png",
+          "path": "media/nord/nord-3-1791215857919.png",
           "duration": 8,
           "days": [
             1,
