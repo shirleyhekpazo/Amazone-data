@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T15:57:55.459Z",
+  "updatedAt": "2026-10-05T16:02:16.511Z",
   "timezone": "Africa/Porto-Novo",
   "panels": {
     "nord": {
@@ -70,10 +70,10 @@
       "slots": [
         {
           "id": "ouest-1",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-1-1791216076945.png",
+          "path": "media/ouest/ouest-1-1791216076945.png",
           "duration": 8,
           "days": [
             1,
@@ -132,10 +132,10 @@
       "slots": [
         {
           "id": "est-1",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/est/est-1-1791216111724.png",
+          "path": "media/est/est-1-1791216111724.png",
           "duration": 8,
           "days": [
             1,
@@ -194,10 +194,10 @@
       "slots": [
         {
           "id": "sud-1",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-1-1791216124399.png",
+          "path": "media/sud/sud-1-1791216124399.png",
           "duration": 8,
           "days": [
             1,
