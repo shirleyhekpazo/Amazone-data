@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T16:02:16.511Z",
+  "updatedAt": "2026-10-05T16:13:12.303Z",
   "timezone": "Africa/Porto-Novo",
   "panels": {
     "nord": {
@@ -66,7 +66,7 @@
       ]
     },
     "ouest": {
-      "ticker": "",
+      "ticker": "Bienvenue à tous dans mon Univers ! Je suis Sigrid-Solène Shirley HEKPAZO",
       "slots": [
         {
           "id": "ouest-1",
@@ -89,10 +89,10 @@
         },
         {
           "id": "ouest-2",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-2-1791216542561.png",
+          "path": "media/ouest/ouest-2-1791216542561.png",
           "duration": 8,
           "days": [
             1,
@@ -108,10 +108,10 @@
         },
         {
           "id": "ouest-3",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-3-1791216561392.png",
+          "path": "media/ouest/ouest-3-1791216561392.png",
           "duration": 8,
           "days": [
             1,
@@ -151,10 +151,10 @@
         },
         {
           "id": "est-2",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/est/est-2-1791216643694.png",
+          "path": "media/est/est-2-1791216643694.png",
           "duration": 8,
           "days": [
             1,
@@ -170,10 +170,10 @@
         },
         {
           "id": "est-3",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/est/est-3-1791216669538.png",
+          "path": "media/est/est-3-1791216669538.png",
           "duration": 8,
           "days": [
             1,
@@ -213,10 +213,10 @@
         },
         {
           "id": "sud-2",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-2-1791216689457.png",
+          "path": "media/sud/sud-2-1791216689457.png",
           "duration": 8,
           "days": [
             1,
@@ -232,10 +232,10 @@
         },
         {
           "id": "sud-3",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-3-1791216711901.png",
+          "path": "media/sud/sud-3-1791216711901.png",
           "duration": 8,
           "days": [
             1,
