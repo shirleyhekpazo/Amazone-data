@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T00:01:08.733Z",
+  "updatedAt": "2026-10-06T09:15:57.125Z",
   "timezone": "Africa/Porto-Novo",
   "panels": {
     "nord": {
@@ -10,8 +10,8 @@
           "id": "nord-1",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-1-1791244330838.png",
-          "path": "media/nord/nord-1-1791244330838.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-1-1791277977817.png",
+          "path": "media/nord/nord-1-1791277977817.png",
           "duration": 8,
           "days": [
             1,
@@ -29,8 +29,8 @@
           "id": "nord-2",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-2-1791244354163.png",
-          "path": "media/nord/nord-2-1791244354163.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-2-1791277989054.png",
+          "path": "media/nord/nord-2-1791277989054.png",
           "duration": 8,
           "days": [
             1,
@@ -48,8 +48,8 @@
           "id": "nord-3",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-3-1791244386514.png",
-          "path": "media/nord/nord-3-1791244386514.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-3-1791278001031.png",
+          "path": "media/nord/nord-3-1791278001031.png",
           "duration": 8,
           "days": [
             1,
@@ -72,8 +72,8 @@
           "id": "ouest-1",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-1-1791244418936.png",
-          "path": "media/ouest/ouest-1-1791244418936.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-1-1791278020949.png",
+          "path": "media/ouest/ouest-1-1791278020949.png",
           "duration": 8,
           "days": [
             1,
@@ -91,8 +91,8 @@
           "id": "ouest-2",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-2-1791244453448.png",
-          "path": "media/ouest/ouest-2-1791244453448.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-2-1791278111847.png",
+          "path": "media/ouest/ouest-2-1791278111847.png",
           "duration": 8,
           "days": [
             1,
@@ -110,8 +110,8 @@
           "id": "ouest-3",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-3-1791244856460.png",
-          "path": "media/ouest/ouest-3-1791244856460.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-3-1791278135755.png",
+          "path": "media/ouest/ouest-3-1791278135755.png",
           "duration": 8,
           "days": [
             1,
