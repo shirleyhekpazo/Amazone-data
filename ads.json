@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T05:29:56.092Z",
+  "updatedAt": "2026-10-07T06:32:25.343Z",
   "timezone": "Africa/Porto-Novo",
   "panels": {
     "nord": {
@@ -8,10 +8,10 @@
       "slots": [
         {
           "id": "nord-1",
-          "enabled": true,
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-1-1791350430701.png",
-          "path": "media/nord/nord-1-1791350430701.png",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
           "duration": 8,
           "days": [
             1,
@@ -27,10 +27,10 @@
         },
         {
           "id": "nord-2",
-          "enabled": true,
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-2-1791350461610.png",
-          "path": "media/nord/nord-2-1791350461610.png",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
           "duration": 8,
           "days": [
             1,
@@ -46,10 +46,10 @@
         },
         {
           "id": "nord-3",
-          "enabled": true,
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-3-1791350473401.png",
-          "path": "media/nord/nord-3-1791350473401.png",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
           "duration": 8,
           "days": [
             1,
@@ -70,10 +70,10 @@
       "slots": [
         {
           "id": "ouest-1",
-          "enabled": true,
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-1-1791350834193.png",
-          "path": "media/ouest/ouest-1-1791350834193.png",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
           "duration": 8,
           "days": [
             1,
@@ -89,10 +89,10 @@
         },
         {
           "id": "ouest-2",
-          "enabled": true,
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-2-1791350845658.png",
-          "path": "media/ouest/ouest-2-1791350845658.png",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
           "duration": 8,
           "days": [
             1,
@@ -108,10 +108,10 @@
         },
         {
           "id": "ouest-3",
-          "enabled": true,
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-3-1791350864710.png",
-          "path": "media/ouest/ouest-3-1791350864710.png",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
           "duration": 8,
           "days": [
             1,
@@ -132,10 +132,10 @@
       "slots": [
         {
           "id": "est-1",
-          "enabled": true,
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/est/est-1-1791350927836.png",
-          "path": "media/est/est-1-1791350927836.png",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
           "duration": 8,
           "days": [
             1,
@@ -151,10 +151,10 @@
         },
         {
           "id": "est-2",
-          "enabled": true,
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/est/est-2-1791350937588.png",
-          "path": "media/est/est-2-1791350937588.png",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
           "duration": 8,
           "days": [
             1,
@@ -170,10 +170,10 @@
         },
         {
           "id": "est-3",
-          "enabled": true,
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/est/est-3-1791350946671.png",
-          "path": "media/est/est-3-1791350946671.png",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
           "duration": 8,
           "days": [
             1,
@@ -194,10 +194,10 @@
       "slots": [
         {
           "id": "sud-1",
-          "enabled": true,
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-1-1791350955715.png",
-          "path": "media/sud/sud-1-1791350955715.png",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
           "duration": 8,
           "days": [
             1,
@@ -213,10 +213,10 @@
         },
         {
           "id": "sud-2",
-          "enabled": true,
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-2-1791350968494.png",
-          "path": "media/sud/sud-2-1791350968494.png",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
           "duration": 8,
           "days": [
             1,
@@ -232,10 +232,10 @@
         },
         {
           "id": "sud-3",
-          "enabled": true,
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-3-1791350986109.png",
-          "path": "media/sud/sud-3-1791350986109.png",
+          "enabled": false,
+          "type": "",
+          "url": "",
+          "path": "",
           "duration": 8,
           "days": [
             1,
