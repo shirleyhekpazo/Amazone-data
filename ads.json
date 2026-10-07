@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T06:32:25.343Z",
+  "updatedAt": "2026-10-07T11:25:10.260Z",
   "timezone": "Africa/Porto-Novo",
   "panels": {
     "nord": {
@@ -190,14 +190,14 @@
       ]
     },
     "sud": {
-      "ticker": "Profitez de MOOV MANVÔ MANVÔ pour que rien ne vous arrête ! Bienvenue dans mon Univers \"Shirley GAMES\" de \"Sigrid-Solène Shirley HEKPAZO \"",
+      "ticker": "« Transformez votre visibilité en opportunités : votre stratégie digitale commence ici. >> \nBienvenue dans mon Univers \"Shirley GAMES\" de \"Sigrid-Solène Shirley HEKPAZO \"",
       "slots": [
         {
           "id": "sud-1",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-1-1791372251532.png",
+          "path": "media/sud/sud-1-1791372251532.png",
           "duration": 8,
           "days": [
             1,
@@ -213,10 +213,10 @@
         },
         {
           "id": "sud-2",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-2-1791372275750.png",
+          "path": "media/sud/sud-2-1791372275750.png",
           "duration": 8,
           "days": [
             1,
@@ -232,10 +232,10 @@
         },
         {
           "id": "sud-3",
-          "enabled": false,
-          "type": "",
-          "url": "",
-          "path": "",
+          "enabled": true,
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-3-1791372301264.png",
+          "path": "media/sud/sud-3-1791372301264.png",
           "duration": 8,
           "days": [
             1,
