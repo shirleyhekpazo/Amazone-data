@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T09:15:57.125Z",
+  "updatedAt": "2026-10-07T05:29:56.092Z",
   "timezone": "Africa/Porto-Novo",
   "panels": {
     "nord": {
-      "ticker": "Bienvenue à tous dans mon Univers ! Je suis Sigrid-Solène Shirley HEKPAZO",
+      "ticker": "Profitez de MOOV MANVÔ MANVÔ pour que rien ne vous arrête ! Bienvenue dans mon Univers \"Shirley GAMES\" de \"Sigrid-Solène Shirley HEKPAZO \"",
       "slots": [
         {
           "id": "nord-1",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-1-1791277977817.png",
-          "path": "media/nord/nord-1-1791277977817.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-1-1791350430701.png",
+          "path": "media/nord/nord-1-1791350430701.png",
           "duration": 8,
           "days": [
             1,
@@ -29,8 +29,8 @@
           "id": "nord-2",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-2-1791277989054.png",
-          "path": "media/nord/nord-2-1791277989054.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-2-1791350461610.png",
+          "path": "media/nord/nord-2-1791350461610.png",
           "duration": 8,
           "days": [
             1,
@@ -48,8 +48,8 @@
           "id": "nord-3",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-3-1791278001031.png",
-          "path": "media/nord/nord-3-1791278001031.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/nord/nord-3-1791350473401.png",
+          "path": "media/nord/nord-3-1791350473401.png",
           "duration": 8,
           "days": [
             1,
@@ -66,14 +66,14 @@
       ]
     },
     "ouest": {
-      "ticker": "Bienvenue à tous dans mon Univers ! Je suis Sigrid-Solène Shirley HEKPAZO",
+      "ticker": "Profitez de MOOV MANVÔ MANVÔ pour que rien ne vous arrête ! Bienvenue dans mon Univers \"Shirley GAMES\" de \"Sigrid-Solène Shirley HEKPAZO \"",
       "slots": [
         {
           "id": "ouest-1",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-1-1791278020949.png",
-          "path": "media/ouest/ouest-1-1791278020949.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-1-1791350834193.png",
+          "path": "media/ouest/ouest-1-1791350834193.png",
           "duration": 8,
           "days": [
             1,
@@ -91,8 +91,8 @@
           "id": "ouest-2",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-2-1791278111847.png",
-          "path": "media/ouest/ouest-2-1791278111847.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-2-1791350845658.png",
+          "path": "media/ouest/ouest-2-1791350845658.png",
           "duration": 8,
           "days": [
             1,
@@ -110,8 +110,8 @@
           "id": "ouest-3",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-3-1791278135755.png",
-          "path": "media/ouest/ouest-3-1791278135755.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/ouest/ouest-3-1791350864710.png",
+          "path": "media/ouest/ouest-3-1791350864710.png",
           "duration": 8,
           "days": [
             1,
@@ -128,14 +128,14 @@
       ]
     },
     "est": {
-      "ticker": "Bienvenue à tous dans mon Univers ! Je suis Sigrid-Solène Shirley HEKPAZO",
+      "ticker": "Profitez de MOOV MANVÔ MANVÔ pour que rien ne vous arrête ! Bienvenue dans mon Univers \"Shirley GAMES\" de \"Sigrid-Solène Shirley HEKPAZO \"",
       "slots": [
         {
           "id": "est-1",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/est/est-1-1791216111724.png",
-          "path": "media/est/est-1-1791216111724.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/est/est-1-1791350927836.png",
+          "path": "media/est/est-1-1791350927836.png",
           "duration": 8,
           "days": [
             1,
@@ -153,8 +153,8 @@
           "id": "est-2",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/est/est-2-1791216643694.png",
-          "path": "media/est/est-2-1791216643694.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/est/est-2-1791350937588.png",
+          "path": "media/est/est-2-1791350937588.png",
           "duration": 8,
           "days": [
             1,
@@ -172,8 +172,8 @@
           "id": "est-3",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/est/est-3-1791216669538.png",
-          "path": "media/est/est-3-1791216669538.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/est/est-3-1791350946671.png",
+          "path": "media/est/est-3-1791350946671.png",
           "duration": 8,
           "days": [
             1,
@@ -190,14 +190,14 @@
       ]
     },
     "sud": {
-      "ticker": "Bienvenue à tous dans mon Univers ! Je suis Sigrid-Solène Shirley HEKPAZO",
+      "ticker": "Profitez de MOOV MANVÔ MANVÔ pour que rien ne vous arrête ! Bienvenue dans mon Univers \"Shirley GAMES\" de \"Sigrid-Solène Shirley HEKPAZO \"",
       "slots": [
         {
           "id": "sud-1",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-1-1791216124399.png",
-          "path": "media/sud/sud-1-1791216124399.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-1-1791350955715.png",
+          "path": "media/sud/sud-1-1791350955715.png",
           "duration": 8,
           "days": [
             1,
@@ -215,8 +215,8 @@
           "id": "sud-2",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-2-1791216689457.png",
-          "path": "media/sud/sud-2-1791216689457.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-2-1791350968494.png",
+          "path": "media/sud/sud-2-1791350968494.png",
           "duration": 8,
           "days": [
             1,
@@ -234,8 +234,8 @@
           "id": "sud-3",
           "enabled": true,
           "type": "image",
-          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-3-1791216711901.png",
-          "path": "media/sud/sud-3-1791216711901.png",
+          "url": "https://raw.githubusercontent.com/shirleyhekpazo/Amazone-data/main/media/sud/sud-3-1791350986109.png",
+          "path": "media/sud/sud-3-1791350986109.png",
           "duration": 8,
           "days": [
             1,
